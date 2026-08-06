@@ -28,4 +28,8 @@ data
 .DS_Store
 Thumbs.db
 
-.egg-info
+
+# Python build files
+*.egg-info/
+build/
+dist/
