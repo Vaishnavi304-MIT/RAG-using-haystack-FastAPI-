@@ -1,0 +1,10 @@
+pinecone-haystack
+haystack-ai
+fastapi
+uvicorn
+python-dotenv
+pathlib
+sentence-transformers-haystack
+pypdf
+nltk==3.9.1
+huggingface-api-haystack

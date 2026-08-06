@@ -1,0 +1,17 @@
+
+#python 3.11 and below are the dependencies required for the project. Make sure to install them in your Python environment.
+pinecone-haystack
+haystack-ai=>2.0.0
+fastapi
+uvicorn
+python-dotenv
+pathlib
+sentence-transformers-haystack
+pypdf
+nltk==3.9.1
+huggingface-api-haystack
+
+
+#this line is for installing the current package from setup.py in editable mode, allowing you to make changes to the code and have them reflected without reinstalling.
+
+-e . 
