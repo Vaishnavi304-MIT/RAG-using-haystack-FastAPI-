@@ -27,3 +27,5 @@ data
 # OS Files
 .DS_Store
 Thumbs.db
+
+.egg-info
