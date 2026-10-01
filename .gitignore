@@ -28,6 +28,7 @@ data
 .DS_Store
 Thumbs.db
 
+QAsystem_with_haystack.egg-info
 
 # Python build files
 *.egg-info/
